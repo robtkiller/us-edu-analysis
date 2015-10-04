@@ -3,6 +3,7 @@ Python analysis of US public education spending.
 
 
 ![Example Output](https://cloud.githubusercontent.com/assets/13774149/10270141/0d280094-6ab7-11e5-8a09-e0b03214a0cd.gif)
+
 *Elementary and Secondary Ed Spending 2004-2013*
 
 **Summary**
